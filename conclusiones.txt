@@ -1,0 +1,10 @@
+Conclusiones del ejercicio PetStore - Karate
+============================================
+
+- Se implementaron los cuatro casos solicitados: añadir, consultar por ID, actualizar y consultar por estatus.
+- Se validaron entradas y salidas con asserts sobre id, name y status.
+- El proyecto es reproducible con Maven y genera reportes HTML y JUnit automáticamente.
+- Se usó un petId fijo para asegurar consistencia en las consultas.
+- Hallazgos: la API responde correctamente a CRUD básico, y la búsqueda por estatus devuelve arrays de mascotas.
+- Buenas prácticas: uso de Background para variables comunes, asserts claros, reportes automáticos.
+- Posibles mejoras: parametrizar múltiples mascotas, agregar escenarios negativos, integrar CI/CD.
