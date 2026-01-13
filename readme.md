@@ -29,5 +29,9 @@ Casos cubiertos:
 - Actualizar mascota a "sold" (PUT /pet)
 - Consultar por estatus (GET /pet/findByStatus)
 
+## El vídeo en teams muestra que envíe de esta forma adjunto imagen de como está los datos
+<img width="1912" height="1030" alt="image" src="https://github.com/user-attachments/assets/a397683f-d10a-4539-85b2-cc445b9fa6cc" />
+
+
 
 
